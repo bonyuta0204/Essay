@@ -136,3 +136,8 @@ Definition of PAI
 > 
 > Th ree studies have demonstrated that people who engage in positive activities even aſt er the prescribed study period continue to show improvements in well-being over a control group (Cohn & Fredrickson, 2010; Lyubomirsky et al., 2011; Seligman et al., 2005)>
 
+### Variety is the spice of happiness: The hedonic adaptation prevention (HAP) model.
+#### Intoduction
+>Sustainable Happiness Model: Our early work regarding these questions focused on the Sustainable Happiness Model (SHM; Lyubomirsky, Sheldon, & Schkade, 2005; Sheldon & Lyubomirsky, 2004, 2006), which divides the possible influences on SWB into three broad categories: genetics, circumstances, and activities (see Figure 1).
+it sugest that Intentional activities occupies 40% of variety of happiness level, whereas set point occupies 50% and Circumstances occupies 10%  
+>e (Emmons & McCullough, 2003; Froh, Sefick, & Emmons, 2008; Lyubomirsky et al., 2005; Lyubomirsky, Dickerhoof, Boehm, & Sheldon, 2009; Seligman, Steen, Park, & Peterson, 2005), contemplating best possible selves (Burton & King, 2008; Lyubomirsky et al., 2009), committing acts of kindness (Dunn, Aknin, & Norton, 2008; Lyubomirsky et al., 2005; Otake, Shimai, Tanaka-Matsumi, Otsui, & Fredrickson, 2006), working on using personal strengths (Seligman et al., 2005), replaying one’s happiest days (Lyubomirsky, Sousa, & Dickerhoof, 2006), and pausing to appreciate, savor, or be mindful of the good things in one’s life (Fredrickson, Cohn, Coffey, Pek, & Finkel, 2008; Seligman et al., 2005)
