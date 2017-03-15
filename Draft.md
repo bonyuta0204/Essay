@@ -39,9 +39,12 @@ Introduction
 + Brief review of positive intervention 
 + Theme of this essay (long lasting effect of positive intervention)
 	+ Review of past literature 
+		+ positive activity intervention. Debate about long lasiting effect of PAI. some research show that it has as long as 6 months effect. But most of the research of PAI were just conducted for less than 12 month. there is less evidence about long lasting effect of PAIs. and needed amout of PAI. there is a theory which suggest that, PAI may benedit because it can train people to feel positive emotion. Even though lyubomirsky suggest that 40% of out happiness is based on what we think and how we behave. is this true? is is really able to escape from hedonic treadmill?
+		+ hedonic treadmill. Human beings tend to adapt to external enviroment much faster than people think. (more eveidence needed). Isn't PAI is part of them?'
 	+ Why it is relevant
 	+ goal of the essay
-
+	+ hypotheses
+	+
 #### Part2 
 
 #### Part3 
@@ -49,6 +52,12 @@ Introduction
 
 ## Research 
 ### Positive Psychology Progress Empirical Validation of Interventions by Seligman et al.
+> Th ese activities are similar in that they are all relatively brief, self-administered, and non-stigmatizing exercises that promote positive feelings, positive thoughts, and/or positive behaviors, rather than directly aiming to fi x negative or pathological feelings, thoughts, and behaviors. For
+
+> Th ese activities are similar in that they are all relatively brief, self-administered, and non-stigmatizing exercises that promote positive feelings, positive thoughts, and/or positive behaviors, rather than directly aiming to fi x negative or pathological feelings, thoughts, and behaviors. For
+
+> 
+> 
 
 Emerging science of positive psychology: the study of positive
 Emotion, positive character, and positive institutions (Seligman & Csikszentmihalyi, 2000).  
@@ -60,7 +69,7 @@ We focus the rest of this article on the efficacy of psycho- logical interventio
 
 One nonobvious reason to be interested in interventions that build happiness is that happiness is not an epiphenomenon. E.g. happiness is causal and bring many benefit beside feeling good.
 
->From the Buddha,through the human potential movement of the 1960s,through the pioneering work of Michael Fordyce (1977,1983),through the self-improvement industry of the 1990s,at least 100 �ginterventions�h claiming to increase happiness lastingly have been proposed.
+>From the Buddha,through the human potential movement of the 1960s,through the pioneering work of Michael Fordyce (1977,1983),through the self-improvement industry of the 1990s,at least 100 “interventions” claiming to increase happiness lastingly have been proposed.
 
 >Research into the hedonic treadmill, adaptation, and the heritability of positive affectivity has implied that people adapt rapidly to positive changes in their world and soon return to their baseline levels of happiness (Brickman & Campbell, 1971; Kahneman, 1999; Lykken & Tellegen, 1996
 
@@ -103,3 +112,27 @@ Increasingly, psycholo- gical well-being (WB) is viewed as not only the absence 
 > Individual therapy was most effective, followed by group-administered PPIs, then self-administered PPIs
 
 ### THE HOW, WHY, WHAT, WHEN, AND WHO OF HAPPINESS.Mechanisms Underlying the Success of Positive Activity Interventions by Lyubomirsky
+#### Introduction
+>however, that changing one’s life circumstances (e.g., marital status, career, location, and income)is not the most fruitful path to greater well-being (Sheldon & Lyubomirsky, 2006a)
+>A common argument from skeptics is that people’s happiness levels are genetically determined and cannot be substantively changed. Despite persuasive evidence from twin studies that well-being levels are strongly infl uenced by genetics (Lykken & Tellegen, 1996)
+>Such fi ndings suggest that trying to become happier by improving one’s life circumstances?if those circumstances are not dreadful to begin with?is unlikely to pay off .
+>We argue instead that these observed changes can be explained in part by deliberate ways that people choose to think and behave in their daily lives
+
+Definition of PAI  
+>Positive activity interventions (PAIs) involve simple, self-administered cognitive behavioral strategies designed to mirror the thoughts and behaviors of naturally happy people and, in turn, improve the happiness of the person performing them.
+> Th ese activities are similar in that they are all relatively brief, self-administered, and non-stigmatizing exercises that promote positive feelings, positive thoughts, and/or positive behaviors, rather than directly aiming to fi x negative or pathological feelings, thoughts, and behaviors. For
+> 
+> Th e length of an intervention may also bolster the benefi ts garnered from performing a particular activity, such that the longer the intervention, the greater the increase to well-being (Sin & Lyubomirsky, 2009)
+> 
+> Sheldon, Boehm, & Lyubomirsky, 2012
+> 
+> and rewarding (Berlyne, 1970; Pronin & Jacobs, 2008; Rolls et al., 1981). College students report being less likely to adapt to dynamic life changes (e.g., those that involve continued engagement in a variable, self-directed process, like taking a language class or making a new friend) than to static ones (e.g., acquiring a better dorm room or more fi nancial aid; Sheldon & Lyubomirsky, 2006a; Study 1
+> 
+> and rewarding (Berlyne, 1970; Pronin & Jacobs, 2008; Rolls et al., 1981). College students report being less likely to adapt to dynamic life changes (e.g., those that involve continued engagement in a variable, self-directed process, like taking a language class or making a new friend) than to static ones (e.g., acquiring a better dorm room or more fi nancial aid; Sheldon & Lyubomirsky, 2006a; Study 1
+> 
+> Furthermore, at a 15-month follow-up to an 8-week loving-kindness meditation training, participants who continued to meditate aſt er the intervention period reported more positive emotions than non-continuers (Cohn & Fredrickson, 2010)
+> 
+> but instead as a tool that people are con- scious of and can deploy when needed. If the positive activity is practiced long enough during the intervention that it becomes habitual, then applying it in later times of need will be relatively eff ortless and automatic. Research
+> 
+> Th ree studies have demonstrated that people who engage in positive activities even aſt er the prescribed study period continue to show improvements in well-being over a control group (Cohn & Fredrickson, 2010; Lyubomirsky et al., 2011; Seligman et al., 2005)>
+
