@@ -61,11 +61,6 @@ Must be concrete procedure of the experiment
 #### Goal of this study and hypotheses.  
 to show that whether pepople utilize intervention intentionally is crucial to long lasting effect of positive intervention.Because intrinsic positive intervention induce positive emotions and positive emotion induce WB. what has to be shown is that.
 
-1. the extent people enjoy and repeat PAI correlate with longer effect of increase in WB
-2. the extent of people enjoy PAI predict the frequency they feel in thier life
-3. the frequency of people feel positive emotion predicts increase of WB. 
-
-
 
 **Mechanism of lasitng happiness by intervention**
 
@@ -78,8 +73,9 @@ PAI => after while, people no more enjoy it because of hedonic adaptation => don
 #### what to measure 
 
 + how much they use it after instructed period
-+ how much the PAI provoke positive emotion.
-+ (strength of positive emotion in their life)
++ (how much the PAI provoke positive emotion.)
++ strength of positive emotion in their life
+	+ Modified Differential Emotions Scale Modified Differential Emotions Scale (mDES) (Fredrickson, Tugade, Waugh, & Larkin, 2003)
 + increase of their happiness level. 
 
 **How to measure and what to measure**
@@ -104,10 +100,23 @@ the way to measure it. => to compare the correlation of how much enjoyed and how
 		+ the data include, there SWB, how much they enjoy PAI(for first two) and whether they are still using it (last 7 times.), how much positive emotion they feel after PAI if they still contines it.
 	+ analyses these data. comparison between two groups and intergroups. correlation between how often they continue and happiness.comparison of the extent they feel positive feelings and happiness level. ANOVA on time passed and three data. 
 
+	+ do we need control group? 
+	+ placebo group: Placebo control exercise: Early memories.Participants were asked to write about their early memories every night for one week
+	+
 #### Result 
 >(We measured participants’ happiness at baseline and immediately after the intervention
 >period with the 4-item Subjective Happiness Scale (SHS; Lyubomirsky & Lepper, 1999))
 	 
+
+
+#### Structure of this part 
++ Introduction: brief aim of this study
++ Method
+	+ Participants
+	+ Procedure
+	+ acquiring data
+	+ analysis
+	+ ethical concern
 
 #### Part3 
 
