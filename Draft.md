@@ -97,6 +97,17 @@ the way to measure it. => to compare the correlation of how much enjoyed and how
 + length: 8 months
 + participants: Student in Psychology class
 	+ they have incentive of grade to keep participating the essay
+	+ First they have to measure theier happiness level.
+	+ then they have to practice Intervention for one month. 
+	+ the intereventino they perform will be three positive things.and letter of gratitude (research shows that it has longer effect in firtst one and dhorter for second one)
+	+ after, 1weeks, 1montn, and every one month later after it, collect data.
+		+ the data include, there SWB, how much they enjoy PAI(for first two) and whether they are still using it (last 7 times.), how much positive emotion they feel after PAI if they still contines it.
+	+ analyses these data. comparison between two groups and intergroups. correlation between how often they continue and happiness.comparison of the extent they feel positive feelings and happiness level. ANOVA on time passed and three data. 
+
+#### Result 
+>(We measured participants’ happiness at baseline and immediately after the intervention
+>period with the 4-item Subjective Happiness Scale (SHS; Lyubomirsky & Lepper, 1999))
+	 
 
 #### Part3 
 
