@@ -120,7 +120,26 @@ the way to measure it. => to compare the correlation of how much enjoyed and how
 
 #### Part3 
 
+about the benefit of this research.
 
+##### Brainstorming 
++ it helps to understand how to boost happiness for longer period
++ overcome pessimism over hedonic treadmill
++ actual suggestion on how to design PAI which actually boost happiness for longer time
+	+ if this studies show that the more someone do it effortlessly,and on free will, it has longer effect, PAI has to be not to hard, and people have tostart from easy one for them.
+	+ on the other hand, 
++ to confirm the idea of sustainable happiness model(SHM)
+	+ is it true that 40% of our happiness is based on what we think and how we behave?
+	+ if it is true, the PAI has to be long lasiting effect on happiness level
++ enjoyment and effortlessness of PAI may be important on designing Interventions.
++ if this model is the case, PAI has to focus more on positive emotion.
++ on larger perspective, it has 
+	+ practical application on designing PAI.  it suggest some stuff for  better design of PAI. First PAI has to be 
+	+ Academic 
+		+ too have better answer for hedonic treadmill v.s. Sustainable Happiness Model 
+		+ possibility to have better life and overcome genetic set point and enviroment which is not easy to change.
+		+ 	
+	+
 ## Research 
 ### Positive Psychology Progress Empirical Validation of Interventions by Seligman et al.
 > These activities are similar in that they are all relatively brief, self-administered, and non-stigmatizing exercises that promote positive feelings, positive thoughts, and/or positive behaviors, rather than directly aiming to fi x negative or pathological feelings, thoughts, and behaviors. For
